@@ -1,0 +1,38 @@
+[
+    {
+        "image":"https://image.flaticon.com/icons/png/512/1225/1225391.png",
+        "title":"Emerjency Services",
+        "description":"Quality Preventative Care from Top Doctors for You and Your Family. Safe, convenient, low-cost option for medical attention and services. Primary Care Doctors. Board-Certified Doctors.",
+        "id":"01"
+    },
+    {
+        "image":"https://image.flaticon.com/icons/png/512/1253/1253250.png",
+        "title":"Qualified Doctors",
+        "description":"Quality Preventative Care from Top Doctors for You and Your Family. Safe, convenient, low-cost option for medical attention and services. Primary Care Doctors. Board-Certified Doctors.",
+        "id":"02"
+    },
+    {
+        "image":"https://image.flaticon.com/icons/png/128/1255/1255560.png",
+        "title":"Location & Directions",
+        "description":"Quality Preventative Care from Top Doctors for You and Your Family. Safe, convenient, low-cost option for medical attention and services. Primary Care Doctors. Board-Certified Doctors.",
+        "id":"03"
+    },
+    {
+        "image":"https://image.flaticon.com/icons/png/512/1253/1253274.png",
+        "title":"Medical Treatment",
+        "description":"Quality Preventative Care from Top Doctors for You and Your Family. Safe, convenient, low-cost option for medical attention and services. Primary Care Doctors. Board-Certified Doctors.",
+        "id":"04"
+    },
+    {
+        "image":"https://image.flaticon.com/icons/png/512/1247/1247858.png",
+        "title":"24 Hours Service",
+        "description":"Quality Preventative Care from Top Doctors for You and Your Family. Safe, convenient, low-cost option for medical attention and services. Primary Care Doctors. Board-Certified Doctors.",
+        "id":"05"
+    },
+    {
+        "image":"https://image.flaticon.com/icons/png/512/1254/1254561.png",
+        "title":"Free Medicine",
+        "description":"Quality Preventative Care from Top Doctors for You and Your Family. Safe, convenient, low-cost option for medical attention and services. Primary Care Doctors. Board-Certified Doctors.",
+        "id":"06"
+    }
+]
