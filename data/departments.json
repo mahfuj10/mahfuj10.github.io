@@ -1,0 +1,66 @@
+[
+    {
+        "image":"https://www.prairieeyecenter.com/wp-content/uploads/woman-eye-surgery.jpg",
+        "name":"Eye Care",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "icon":"https://image.flaticon.com/icons/png/512/1253/1253274.png",
+        "id":"0aas023"
+    },
+    {
+        "image":"https://www.deept.com/wp-content/uploads/2019/02/HealthMatters_web.jpg",
+        "name":"Physical Therapy",
+        "icon":"https://image.flaticon.com/icons/png/512/1253/1253274.png",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"0kljsh3"
+    },
+    {
+        "image":"https://images.unsplash.com/photo-1581584731241-c134a1afe9a0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+        "icon":"https://image.flaticon.com/icons/png/512/1253/1253274.png",
+        "name":"Dental Care",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"0s97sa23"
+    },
+    {
+        "image":"https://www.smsna.org/images/2021/08/09/Penile_Ultrasound_Photo.jpg",
+        "name":"Diagnostic Test",
+        "icon":"https://image.flaticon.com/icons/png/512/1253/1253274.png",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"06sd7sa23"
+    },
+    {
+        "image":"https://images.unsplash.com/photo-1551190822-a9333d879b1f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3VyZ2VyeXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "icon":"https://image.flaticon.com/icons/png/512/1253/1253274.png",
+        "name":"Skin Surgery",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"734jsdh87"
+    },
+ 
+    {
+        "image":"https://www.biospectrumindia.com/uploads/articles/1-13718.jpg",
+        "name":"Hart Surgery",
+        "icon":"https://image.flaticon.com/icons/png/512/1253/1253274.png",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"734jsdh87"
+    },
+    {
+        "image":"https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "icon":"https://image.flaticon.com/icons/png/512/1253/1253274.png",
+        "name":"X-ray",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"7sdopjsdh87"
+    },
+    {
+        "image":"https://www.fortishealthcare.com/speciality_banner/mobile/Non-Invasive-Cardiology.jpg",
+        "icon":"https://image.flaticon.com/icons/png/512/1253/1253274.png",
+        "name":"Cardiology",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"7s987sdjsdh87"
+    },
+    {
+        "image":"https://images.unsplash.com/photo-1551601651-2a8555f1a136?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=847&q=80",
+        "name":"Surgery Service",
+        "icon":"https://image.flaticon.com/icons/png/512/1253/1253274.png",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"lksd4jsdh87"
+    }
+]
